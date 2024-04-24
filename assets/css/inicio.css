@@ -1,0 +1,37 @@
+
+.card-principal{
+    display: flex;
+    height: 40vh;
+    align-items: center;
+    padding: 20px;
+    justify-content: space-between;
+}
+.card-principal img{
+    display: block;
+    margin-right: 5vw;
+}
+.card-inicio{
+    display: flex;
+}
+.card-inicio div{ 
+   padding: 10px;
+    gap: 20vw;
+    justify-content: center;
+    background-color: #ABE8B1;
+    height: 15vh;
+    width: 80%;
+    margin: 20px;
+    border-radius: 20px;
+}
+.card-inicio h4{
+    text-align: center;
+    margin-bottom: 4%;
+    
+}
+
+i{
+    margin-right: 10px;
+}
+.card-principal p{
+   margin-left: 20px;
+}
